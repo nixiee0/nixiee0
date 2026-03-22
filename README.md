@@ -7,25 +7,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔧 Contributing to open-source projects in the Minecraft modding space  
-- 🌍 Working with translations, config/script changes, fixes  
-- 📚 Currently focused on **Python**  
-- 🎯 Interested in automation, tools, and modding utilities  
-- 🛠 Learning by doing real contributions instead of only theory  
-
----
-
-## 🔥 Current Focus
-
-- Contributions to **TerraFirmaGreg-Modern** repositories  
-- Improving modpack content, scripts, recipes, and localization  
-- Growing from small fixes → real technical tasks  
-- Building backend/dev-tools thinking  
-
----
-
 ## 🧰 Languages & Tools
 
 <p align="center">
@@ -46,19 +27,3 @@
 </p>
 
 ---
-
-## 🌱 Roadmap
-
-Right now I'm improving in:
-
-- **C# / .NET / Python**  
-- **Git & GitHub workflow**  
-- **Open-source collaboration**  
-- **Automation / helper tools**  
-- **Minecraft modding ecosystem**  
-
----
-
-## 🤝 Contact
-
-- Discord: `sensation17dx`
