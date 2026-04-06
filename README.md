@@ -1,16 +1,7 @@
-<h1 align="center">Hey, I'm Danya 👋</h1>
-<h3 align="center">Open Source Contributor • Minecraft Modding • Learning C# / .NET / Python</h3>
-
-<p align="center">
-  I contribute to modding-related projects, work on fixes, translations, scripts, and gradually grow as a developer through real-world practice.
-</p>
-
----
-
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,git,github,vscode,rider,obsidian" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,obsidian" />
 </p>
 
 ---
