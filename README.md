@@ -1,7 +1,7 @@
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,obsidian" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian" />
 </p>
 
 ---
