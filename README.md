@@ -6,11 +6,11 @@
 
 ## 📊 Coding Activity
 
-<!-- DEVPULSE:START -->
+<!-- NIXIEEPULSE:START -->
 <p align="center">
   <img src="./assets/coding-activity.svg" alt="Coding Activity" width="1080" />
 </p>
-<!-- DEVPULSE:END -->
+<!-- NIXIEEPULSE:END -->
 
 ## 📊 GitHub Stats
 
