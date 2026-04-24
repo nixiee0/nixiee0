@@ -15,7 +15,7 @@
   </style>
   <rect x="0.5" y="0.5" width="1079" height="271" rx="18" class="card" />
   <text x="40" y="44" class="title">Coding Activity</text>
-  <text x="40" y="72" class="subtitle">Total tracked: 7s</text>
+  <text x="40" y="72" class="subtitle">Total tracked: 11s</text>
   <g transform="translate(0 104)">
     <g transform="translate(40 10)">
       <rect width="24" height="24" rx="6" fill="#3776ab" class="icon-bg" />
@@ -23,9 +23,9 @@
     </g>
     <text x="78" y="28" class="label">Python</text>
     <rect x="332" y="16" width="460" height="14" rx="7" class="track" />
-    <rect x="332" y="16" width="328" height="14" rx="7" class="fill" />
-    <text x="826" y="28" class="duration">5s</text>
-    <text x="990" y="28" class="share">71.4%</text>
+    <rect x="332" y="16" width="376" height="14" rx="7" class="fill" />
+    <text x="826" y="28" class="duration">9s</text>
+    <text x="990" y="28" class="share">81.8%</text>
   </g>
   <g transform="translate(0 152)">
     <g transform="translate(40 10)">
@@ -34,9 +34,9 @@
     </g>
     <text x="78" y="28" class="label">ignore</text>
     <rect x="332" y="16" width="460" height="14" rx="7" class="track" />
-    <rect x="332" y="16" width="132" height="14" rx="7" class="fill" />
+    <rect x="332" y="16" width="84" height="14" rx="7" class="fill" />
     <text x="826" y="28" class="duration">2s</text>
-    <text x="990" y="28" class="share">28.6%</text>
+    <text x="990" y="28" class="share">18.2%</text>
   </g>
-  <text x="40" y="244" class="meta">Last update: 4/25/2026, 2:38:52 AM</text>
+  <text x="40" y="244" class="meta">Last update: 4/25/2026, 2:40:45 AM</text>
 </svg>
