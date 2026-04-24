@@ -10,11 +10,11 @@
   </style>
   <rect x="0.5" y="0.5" width="719" height="159" rx="16" class="card" />
   <text x="32" y="36" class="title">DevPulse Coding Activity</text>
-  <text x="32" y="58" class="subtitle">Total tracked: 1s</text>
+  <text x="32" y="58" class="subtitle">Total tracked: 3s</text>
   <text x="32" y="95" class="label">Python</text>
   <rect x="210" y="83" width="260" height="12" rx="6" class="track" />
   <rect x="210" y="83" width="260" height="12" rx="6" class="fill" />
-  <text x="500" y="95" class="duration">1s</text>
+  <text x="500" y="95" class="duration">3s</text>
   <text x="620" y="95" class="share">100%</text>
-  <text x="32" y="136" class="subtitle">Last update: 4/25/2026, 12:38:10 AM</text>
+  <text x="32" y="136" class="subtitle">Last update: 4/25/2026, 12:48:58 AM</text>
 </svg>
