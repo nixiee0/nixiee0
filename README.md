@@ -7,6 +7,24 @@
 ## 📊 Coding Activity
 
 <!-- DEVPULSE:START -->
+### 📊 DevPulse Coding Activity
+
+![DevPulse coding activity](./assets/devpulse-stats.svg)
+
+<details>
+<summary>Show table</summary>
+
+### 📊 DevPulse Coding Activity
+
+**Total tracked:** 1s
+
+| Language | Time | Share |
+|---|---:|---:|
+| Python | 1s | 100% |
+
+Last update: 4/25/2026, 12:38:10 AM
+
+</details>
 <!-- DEVPULSE:END -->
 
 ## 📊 GitHub Stats
