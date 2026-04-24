@@ -6,11 +6,12 @@
 
 ## 📊 Coding Activity
 
-
 <!-- DEVPULSE:START -->
-<p align="center">
-  <img src="./assets/devpulse-stats.svg" alt="Coding Activity" width="1080" />
-</p>
+### 📊 DevPulse Coding Activity
+
+![DevPulse coding activity](./assets/devpulse-stats.svg)
+
+Last update: 4/25/2026, 12:48:58 AM
 <!-- DEVPULSE:END -->
 
 ## 📊 GitHub Stats
