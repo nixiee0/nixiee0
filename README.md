@@ -23,10 +23,10 @@
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=nixiee0&show_icons=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
     alt="GitHub stats"
     width="1080"
   />
-</p>
+</p> -->
