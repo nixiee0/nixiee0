@@ -5,6 +5,7 @@
 </p>
 
 ## 📊 Coding Activity
+> Activity counting from 04/25/2026
 
 <!-- NIXIEEPULSE:START -->
 <p align="center">
