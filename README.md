@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="./assets/nixiee0.gif" width="1080">
+</p>
+
+---
+
 ## 🧰 Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,github,obsidian&theme=dark" alt="Languages and tools" />
 </p>
+
+---
 
 ## 📊 Coding Activity
 > Activity counting from 04/25/2026
